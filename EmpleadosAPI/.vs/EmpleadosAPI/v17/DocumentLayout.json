@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|c:\\users\\camed\\desktop\\proyectoempleados\\empleadosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|c:\\users\\camed\\desktop\\proyectoempleados\\empleadosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|c:\\users\\camed\\desktop\\proyectoempleados\\empleadosapi\\controllers\\archivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|solutionrelative:controllers\\archivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|c:\\users\\camed\\desktop\\proyectoempleados\\empleadosapi\\models\\archivosconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|solutionrelative:models\\archivosconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|c:\\users\\camed\\desktop\\proyectoempleados\\empleadosapi\\models\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|solutionrelative:models\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|c:\\users\\camed\\desktop\\proyectoempleados\\empleadosapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|c:\\users\\camed\\desktop\\proyectoempleados\\empleadosapi\\controllers\\conductorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268C1414-B412-42E9-BE40-D263B9152E8E}|EmpleadosAPI.csproj|solutionrelative:controllers\\conductorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T12:16:09.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:15:49.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:15:42.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConductorController.cs",
+              "DocumentMoniker": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Controllers\\ConductorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConductorController.cs",
+              "ToolTip": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Controllers\\ConductorController.cs",
+              "RelativeToolTip": "Controllers\\ConductorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:15:27.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArchivoController.cs",
+              "DocumentMoniker": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Controllers\\ArchivoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArchivoController.cs",
+              "ToolTip": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Controllers\\ArchivoController.cs",
+              "RelativeToolTip": "Controllers\\ArchivoController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:14:11.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Models\\Conductor.cs",
+              "RelativeDocumentMoniker": "Models\\Conductor.cs",
+              "ToolTip": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Models\\Conductor.cs",
+              "RelativeToolTip": "Models\\Conductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:05:51.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArchivosConductor.cs",
+              "DocumentMoniker": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Models\\ArchivosConductor.cs",
+              "RelativeDocumentMoniker": "Models\\ArchivosConductor.cs",
+              "ToolTip": "C:\\Users\\camed\\Desktop\\proyectoEmpleados\\EmpleadosAPI\\Models\\ArchivosConductor.cs",
+              "RelativeToolTip": "Models\\ArchivosConductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:05:50.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
