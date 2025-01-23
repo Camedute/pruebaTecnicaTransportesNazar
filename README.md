@@ -11,7 +11,7 @@
 - **Jueves**: Desarrollo del `Hosting` (migración de `HTTP` a `HTTPS` para ser consumido por la `APP`), compilación y construcción de la aplicación en formato `APK`
 
 #### 📖*Comentarios*
-Lo más complicado que surgió a la hora de desarrollar la prueba, fue la implementación del `Backend` en el `Hosting`, para que siempre esté activo, y, por otra parte, la transformación de la imagen que se capturaba para ser enviada a la base de datos, y posteriormente ser transformada nuevamente para ser consumida por el Frontend 
+Lo más complicado que surgió a la hora de desarrollar la prueba, fue la implementación del `Backend` en el `Hosting`, para que siempre esté activo evitando pasos complicados, que no funcione bien la APP, entre otras cosas, el mayor problema que hubo, es que en móviles, por defecto los navegadores cambian de `HTTP` a `HTTPS`, causando que la aplicación dé error; Por otra parte, la transformación de la imagen que se capturaba para ser enviada a la base de datos, y posteriormente ser transformada nuevamente para ser consumida por el Frontend 
 * (`Imagen capturada` ➡️ `Varbinary` ➡️ `Base64`)
 
 ### 🖥️ *Backend (empleadosAPI)*
